@@ -1,0 +1,2 @@
+# Kalkulacka
+Python kalkulacka
